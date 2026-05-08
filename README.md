@@ -38,12 +38,15 @@ The project represents a responsive business landing page for a technical insula
 
 ## 🖼 Preview
 
-xomko-dana.github.io
+preview1.png
+preview2.png
+preview3.png
 
 ---
 
 ## 🌍 Live Demo
 
+xomko-dana.github.io
 
 
 ---
